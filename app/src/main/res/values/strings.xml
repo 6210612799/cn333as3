@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">biggernumberCompose</string>
+    <string name="Check">666</string>
+    <string name="Go">Go</string>
+    <string name="check">Go!</string>
+    <string name="reset">reset</string>
+</resources>
